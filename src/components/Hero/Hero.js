@@ -12,9 +12,9 @@ const Hero = () => (
           My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Hello! My name is Sunjot Grewal and I am a Criminology student who turned into a self taught software engineer skilled in; JavaScript, React, HTML, and CSS
+      Greetings! My name is Sunjot, I previously studied Criminology at York University. In 2021, I decided to make a shift towards a profession I am passionate about. After completing 2 bootcamps (Scrimba & Meta Frontend). I have gained knowledge and the skills to be proficient in; JavaScript, React, HTML, and CSS.
       </SectionText>
-      <Button onClick={() => window.location = href= "#projects"} >More About Me</Button>
+      <Button onClick={() => window.location = '#about'} >More About Me</Button>
     </LeftSection>
   </section>
 );

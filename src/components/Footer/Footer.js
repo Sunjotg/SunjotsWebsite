@@ -14,7 +14,7 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:sunjot_10@outlook.com">Sunjot_10@outlook.com</LinkItem>
+          <LinkItem href="mailto:sunjot_10@outlook.com" target="_blank">Sunjot_10@outlook.com</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
@@ -22,13 +22,13 @@ const Footer = () => {
           <Slogan>Innovating and learning one project at a time</Slogan>
         </CompanyContainer>
         <SocialContainer>
-        <SocialIcons href="https://github.com/Sunjotg">
+        <SocialIcons href="https://github.com/Sunjotg" target="_blank">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://linkedin.com">
+      <SocialIcons href="https://www.linkedin.com/in/sunjot-grewal-63a0b9217/" target="_blank">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.instagram.com/sunjotg/">
+      <SocialIcons href="https://www.instagram.com/sunjotg/" target="_blank">
         <AiFillInstagram size="3rem" />
       </SocialIcons>
       </SocialContainer>
