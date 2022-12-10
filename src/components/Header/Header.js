@@ -9,7 +9,7 @@ const Header = () =>  (
   <Container>
     <Div1>
       <Link href="/">
-        <a style={{display: "flex", alignItems: "center", color: 'white', marginBottom: '40px;'}}>
+        <a href='/' style={{display: "flex", alignItems: "center", color: 'white', marginBottom: '40px;'}}>
           <DiCssdeck size="3rem"/> <Span>Sunjot's Portfolio</Span>
         </a>
       </Link>

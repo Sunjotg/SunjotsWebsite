@@ -46,11 +46,13 @@ const Timeline = () => {
     <section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Who is Sunjot Grewal? <br />
+        <h4>Who is Sunjot Grewal?</h4>
         A Self Taught Software Engineer! <br/>
-         I am a FrontEnd Developer located in Toronto, Ontario. I have a serious passion for web development and learning new skills.< br/>
-        Well experienced with JavaScript, React, HTML, CSS and design tools such as Figma.<br />
-        Always open to learning more and expanding my knowledge.
+        Creative, technical, design-savvy recent coding program graduate 
+        fluent in HTML, CSS, JavaScript/ES6, React and Jasmine.
+        Located in Toronto, Ontario I am open to working in-office,
+        remote or even relocating! I have a serious passion for web development and learning new skills,
+        check the footer section to get in touch!
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

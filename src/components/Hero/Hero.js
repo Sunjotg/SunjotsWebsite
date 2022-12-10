@@ -11,8 +11,9 @@ const Hero = () => (
           Welcome To <br />
           My Personal Portfolio
       </SectionTitle>
+      <h3>Who is Sunjot Grewal?</h3>
       <SectionText>
-      Greetings! My name is Sunjot, I previously studied Criminology at York University. In 2021, I decided to make a shift towards a profession I am passionate about. After completing 2 bootcamps (Scrimba & Meta Frontend). I have gained knowledge and the skills to be proficient in; JavaScript, React, HTML, and CSS.
+      A York University graduate with a bachelor's degree. A self taught Software Engineer with 2 years of real world experince. Preferred languages: JavaScript/ES6, Python, React, Jasmine(unit-testing), HTML, and CSS.
       </SectionText>
       <Button onClick={() => window.location = '#about'} >More About Me</Button>
     </LeftSection>

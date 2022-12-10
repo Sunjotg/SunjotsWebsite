@@ -6,19 +6,18 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <section id="tech">
     <SectionDivider />
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>Professional Experience:</SectionTitle>
     <SectionText>
-      I've worked with a range of Technologies in the world of web development.
-      Focusing mainly on frontend engineering but I also have some experience working with backend languages (python and Node.js) and UI design tools such as figma.
+      In my 2 years of experince, I have created over 10 solo projects and worked at Aviva Canada as a Front End Engineer. Programming Stack; Javascript, ES6, React, HTML and CSS.
     </SectionText>
     <List>
       <ListItem>
         <DiJavascript size="3rem" />
         <ListContainer>
-          <ListTitle>Front-End Development</ListTitle>
+          <ListTitle>Software Engineer</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            JavaScript HTML & CSS
+            Experience with: <br />
+            JavaScript, Python, <br /> HTML & CSS
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -27,8 +26,9 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Libraries for JavaScript</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            React
+            Experience with: <br />
+            React, <br />
+            Jasmine (Unit-Testing)
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -37,8 +37,9 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>UI/UX Design</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Tools like Figma
+            Experience with: <br />
+            Tools like Figma, <br />
+             Adobe XD
           </ListParagraph>
         </ListContainer>
       </ListItem>
